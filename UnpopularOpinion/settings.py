@@ -38,9 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     #Own
-    'login'
-    'register'
-    'index'
+    'login',
+    'register',
+    'index',
     'userprofile'
 ]
 
